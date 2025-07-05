@@ -30,6 +30,7 @@
   
   3. ორივე წევრმა ერთად იმუშავა კოდის საერთო სტრუქტურაზე, ლოგიკის შემოწმებასა და დებაგინგზე, რათა პროექტი გამართული და სრულფასოვანი გამოსულიყო.
 
+მთლიანი პროექტისა და exe ფაილის სანახავად: https://drive.google.com/drive/folders/1e4bZNxR3_tfhEhyM9P_CZ3vItyEKL8zl?usp=sharing
 
 English:
 Sulkhan Kvernadze University Management System
@@ -62,3 +63,5 @@ The project was developed by two team members: Davit Shengelia and Vazha Tsertsv
   2. Vazha Tsertsvadze worked on the project design, created the application's visual elements, and ensured a pleasant and logical interface. Additionally, Vazha        planned the overall project structure, designed the functional logic for proper UI element placement, and contributed to developing and optimizing the              functional parts.
   
   3. Both team members worked together on the overall code structure, logic testing, and debugging to ensure the project was functional and complete.
+
+To view the entire project and exe file: https://drive.google.com/drive/folders/1e4bZNxR3_tfhEhyM9P_CZ3vItyEKL8zl?usp=sharing
