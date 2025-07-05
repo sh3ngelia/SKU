@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="hah">
+    <file>Rectangle 4.png</file>
+    <file>gela.png</file>
+    <file>graduated.png</file>
+    <file>hah.png</file>
+  </qresource>
+</RCC>

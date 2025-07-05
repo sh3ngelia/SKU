@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="img">
+    <file>title_founders.png</file>
+    <file>founders.png</file>
+    <file>founders_logo.png</file>
+    <file>foundres_txt.png</file>
+  </qresource>
+</RCC>

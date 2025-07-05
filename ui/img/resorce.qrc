@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>stanford 1.png</file>
+    <file>tavisufali 1.png</file>
+    <file>lomebi 1.png</file>
+    <file>oxford 1.png</file>
+    <file>GTU 1.png</file>
+    <file>harvar 1.png</file>
+    <file>Group 22.png</file>
+    <file>div1.png</file>
+    <file>kverna1.png</file>
+    <file>kverna3.png</file>
+    <file>Line 4.png</file>
+  </qresource>
+</RCC>
