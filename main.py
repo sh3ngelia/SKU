@@ -169,7 +169,6 @@ class BaseUniversityDialog(QtWidgets.QDialog):
             pass
 
     def setup_search_table_layout(self, search_placeholder):
-        """Creates the standard search + table layout"""
         layout = QtWidgets.QVBoxLayout(self)
         layout.setSpacing(15)
         layout.setContentsMargins(20, 20, 20, 20)
